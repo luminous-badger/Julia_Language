@@ -1,0 +1,6 @@
+
+https://docs.julialang.org/en/stable/
+
+http://juliaimages.github.io/latest/install.html#Loading-your-first-image-1
+
+
